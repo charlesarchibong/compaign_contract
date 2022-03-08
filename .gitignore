@@ -15,6 +15,7 @@
 *.iws
 .idea/
 .env
+smart_contract/node_modules
 
 
 # The .vscode folder contains launch configuration and tasks you configure in
